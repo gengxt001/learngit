@@ -4,3 +4,4 @@ Git has a mutable index called staged.
 git tracks  changes of files.
 creating a new branch is quick AND simple.
 a new branch again, using no--ff
+in dev readme.txt
