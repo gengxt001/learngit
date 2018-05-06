@@ -7,3 +7,4 @@ a new branch again, using no--ff
 in issue-101 branch;
 xxx git config..
 try to push origin.
+in dev readme.txt
