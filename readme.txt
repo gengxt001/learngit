@@ -8,3 +8,4 @@ in dev readme.txt
 dev again..
 dev again.in windows.
 in ubuntu.
+ccccc ooooo nnnn fffffff...in ubuntu
